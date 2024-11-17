@@ -1,0 +1,12 @@
+Jane Zhang Mar-2-1970 3.800 I 120
+Julia Turner Sep-9-1982 4.000 I 100
+Carlos Mendoza Jun-5-1987 4.000 I 80
+Rachel Young Jan-1-1988 2.500 I 45
+Mary Jackson Feb-2-1990 4.000 I 60
+Chloe Kim Apr-28-1990 3.400 I 60
+Amy Brown Dec-3-1990 3.700 I 95
+Laura Smith Apr-7-1991 3.900 I 75
+Lily Brown Oct-11-1991 3.900 I 55
+Sarah Johnson May-12-1992 2.600 I 50
+Laura Wong Dec-8-1993 3.100 I 85
+Diana Martinez Feb-18-1994 3.300 I 70

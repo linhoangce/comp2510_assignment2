@@ -1,0 +1,6 @@
+Mary Jackson Feb-2-1990 4.0 I 120
+Mary Jackson Feb-2-1990 3.0 I 120
+Mary Jackson Feb-2-1990 4.0 D
+Mary Jackson Jan-1-1990 4.0 I 80
+Mary Jackson Jan-1-1990 4.0 D
+Mary Jackson Jan-1-1990 4.0 I 100

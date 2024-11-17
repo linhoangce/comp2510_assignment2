@@ -1,0 +1,24 @@
+Jane Zhang Mar-2-1970 3.800 I 120
+Mike Johnson Sep-2-1980 3.125 D
+Julia Turner Sep-9-1982 4.000 I 100
+Alex King Sep-27-1983 3.950 D
+Sam Thompson Jul-16-1984 3.600 D
+Mark Lee Aug-19-1985 3.500 D
+Kevin Wilson Mar-10-1986 3.000 D
+Carlos Mendoza Jun-5-1987 4.000 I 80
+Rachel Young Jan-1-1988 2.500 I 45
+Jason White Jul-14-1988 2.900 D
+John Doe Jan-15-1989 2.800 D
+Chris Green May-22-1989 2.650 D
+Mary Jackson Feb-2-1990 4.000 I 60
+Jack He Feb-3-1990 2.450 D
+Chloe Kim Apr-28-1990 3.400 I 60
+Amy Brown Dec-3-1990 3.700 I 95
+Laura Smith Apr-7-1991 3.900 I 75
+Lily Brown Oct-11-1991 3.900 I 55
+Michael Chen Nov-25-1991 2.750 D
+Sarah Johnson May-12-1992 2.600 I 50
+Thomas Evans Jun-2-1992 3.800 D
+Emily Davis Oct-22-1993 3.200 D
+Laura Wong Dec-8-1993 3.100 I 85
+Diana Martinez Feb-18-1994 3.300 I 70

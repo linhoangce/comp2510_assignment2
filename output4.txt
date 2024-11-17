@@ -1,0 +1,6 @@
+Mary Jackson Jan-1-1990 4.000 D
+Mary Jackson Jan-1-1990 4.000 I 80
+Mary Jackson Jan-1-1990 4.000 I 100
+Mary Jackson Feb-2-1990 3.000 I 120
+Mary Jackson Feb-2-1990 4.000 D
+Mary Jackson Feb-2-1990 4.000 I 120
